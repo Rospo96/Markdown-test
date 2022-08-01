@@ -86,3 +86,8 @@ if a > b:
 <!-- arrobar a un amigo -->
 
 @evasant1ago :smiley:
+
+
+<!-- Github MarkDown Todo lo que se puede hacer -->
+
+[MarkDown Guia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Guia rapida")
