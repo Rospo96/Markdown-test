@@ -76,8 +76,8 @@ if a > b:
 
 <!-- Github Markdown -->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 * [x] Task 4
 
 <!-- Las tareas realizadas son las que tienen un check marcado  -->
